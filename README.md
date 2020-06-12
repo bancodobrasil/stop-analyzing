@@ -7,7 +7,7 @@ Stop Analyzing is a tool that uses Tinder-like interaction to help your customer
 
 Here are some inspirations:
 
-![like-mode](https://user-images.githubusercontent.com/3986989/84530270-39fc8880-acb9-11ea-8424-d1907f3239e7.gif)
+![like-deslike](https://user-images.githubusercontent.com/3986989/84539933-c499b380-acca-11ea-9a4c-a0ac47a6e48a.gif)
 
 ![choice](https://user-images.githubusercontent.com/3986989/84539633-2e658d80-acca-11ea-8dac-da27b1f85329.gif)
 
