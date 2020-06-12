@@ -3,7 +3,13 @@
 [![This is a Poppins project](https://raw.githubusercontent.com/bancodobrasil/poppins/master/badge-poppins.svg)](https://github.com/bancodobrasil/poppins)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-Stop Analyzing is a tool that uses Tinder like interaction to help your customers make up their mind when choosing something, like a product of you e-commerce.
+Stop Analyzing is a tool that uses Tinder-like interaction to help your customers make up their mind when choosing something, like a product of you e-commerce. This is a customizable tool that you can use in any site that uses any technology stack.
+
+Here are some inspirations:
+
+![like-mode](https://user-images.githubusercontent.com/3986989/84530270-39fc8880-acb9-11ea-8424-d1907f3239e7.gif)
+
+![choice](https://user-images.githubusercontent.com/3986989/84539633-2e658d80-acca-11ea-8dac-da27b1f85329.gif)
 
 ## This project was made for first-time contributors and open source beginners
 
