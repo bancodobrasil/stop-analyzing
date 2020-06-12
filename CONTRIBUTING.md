@@ -1,4 +1,4 @@
-# How to contribute to Stop Analyzing Embed? Beginners are very welcome!
+# How to contribute to Stop Analyzing? Beginners are very welcome!
 
 ## This project was made for first-time contributors and open source beginners
 
