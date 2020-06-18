@@ -43,3 +43,4 @@ There are 3 projects you can contribute to:
 - [Contribute to this Project](https://github.com/Syknapse/Contribute-To-This-Project): This is for absolute beginners. If you know how to write and edit an anchor tag <a href="" target=""></a> then you should be able to do it.
 - [Contribute to open source](https://github.com/danthareja/contribute-to-open-source):
 Learn the GitHub workflow by contributing code in a fun simulation project
+- [Stop Analyzing Embed](https://github.com/bancodobrasil/stop-analyzing-embed): Stop Analyzing Embed is a web component of Stop Analyzing to be embedded on client websites.
